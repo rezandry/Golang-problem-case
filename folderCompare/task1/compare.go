@@ -38,11 +38,6 @@ func main() {
 		}
 	}
 
-	fmt.Println("sourceList : ")
-	fmt.Println(len(sourceList))
-	fmt.Println("targetList : ")
-	fmt.Println(len(targetList))
-
 	for _, file := range sourceList {
 		if file != "" {
 			fmt.Println(file, " NEW")
