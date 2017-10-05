@@ -1,5 +1,6 @@
 # Prescreening MagicSoftAsia
 ## Problem 1 : Sorting
+## [Github Reza](http://github.com/rezandry)
 __How to Use__
 1. Run compiled code 
 > ./main
